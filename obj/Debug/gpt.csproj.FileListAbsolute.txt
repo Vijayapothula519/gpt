@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\gpt\obj\Debug\gpt.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\gpt\obj\Debug\gpt.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\gpt\bin\Debug\gpt.exe.config
+C:\Users\HP\source\repos\gpt\bin\Debug\gpt.exe
+C:\Users\HP\source\repos\gpt\bin\Debug\gpt.pdb
+C:\Users\HP\source\repos\gpt\obj\Debug\gpt.exe
+C:\Users\HP\source\repos\gpt\obj\Debug\gpt.pdb
